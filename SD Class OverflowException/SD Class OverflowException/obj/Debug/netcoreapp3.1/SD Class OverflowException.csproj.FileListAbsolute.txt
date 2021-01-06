@@ -1,0 +1,13 @@
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\bin\Debug\netcoreapp3.1\SD Class OverflowException.exe
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\bin\Debug\netcoreapp3.1\SD Class OverflowException.deps.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\bin\Debug\netcoreapp3.1\SD Class OverflowException.runtimeconfig.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\bin\Debug\netcoreapp3.1\SD Class OverflowException.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\bin\Debug\netcoreapp3.1\SD Class OverflowException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\bin\Debug\netcoreapp3.1\SD Class OverflowException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.csprojAssemblyReference.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class OverflowException\SD Class OverflowException\obj\Debug\netcoreapp3.1\SD Class OverflowException.genruntimeconfig.cache

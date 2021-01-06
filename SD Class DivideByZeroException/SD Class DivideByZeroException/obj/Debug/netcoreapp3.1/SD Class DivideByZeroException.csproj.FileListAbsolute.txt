@@ -1,0 +1,12 @@
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\bin\Debug\netcoreapp3.1\SD Class DivideByZeroException.exe
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\bin\Debug\netcoreapp3.1\SD Class DivideByZeroException.deps.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\bin\Debug\netcoreapp3.1\SD Class DivideByZeroException.runtimeconfig.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\bin\Debug\netcoreapp3.1\SD Class DivideByZeroException.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\bin\Debug\netcoreapp3.1\SD Class DivideByZeroException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\bin\Debug\netcoreapp3.1\SD Class DivideByZeroException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\obj\Debug\netcoreapp3.1\SD Class DivideByZeroException.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\obj\Debug\netcoreapp3.1\SD Class DivideByZeroException.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\obj\Debug\netcoreapp3.1\SD Class DivideByZeroException.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\obj\Debug\netcoreapp3.1\SD Class DivideByZeroException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\obj\Debug\netcoreapp3.1\SD Class DivideByZeroException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class DivideByZeroException\SD Class DivideByZeroException\obj\Debug\netcoreapp3.1\SD Class DivideByZeroException.genruntimeconfig.cache

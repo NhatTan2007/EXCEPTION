@@ -1,0 +1,12 @@
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\bin\Debug\netcoreapp3.1\SD Class InvalidOperationException.exe
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\bin\Debug\netcoreapp3.1\SD Class InvalidOperationException.deps.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\bin\Debug\netcoreapp3.1\SD Class InvalidOperationException.runtimeconfig.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\bin\Debug\netcoreapp3.1\SD Class InvalidOperationException.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\bin\Debug\netcoreapp3.1\SD Class InvalidOperationException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\bin\Debug\netcoreapp3.1\SD Class InvalidOperationException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\obj\Debug\netcoreapp3.1\SD Class InvalidOperationException.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\obj\Debug\netcoreapp3.1\SD Class InvalidOperationException.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\obj\Debug\netcoreapp3.1\SD Class InvalidOperationException.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\obj\Debug\netcoreapp3.1\SD Class InvalidOperationException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\obj\Debug\netcoreapp3.1\SD Class InvalidOperationException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class InvalidOperationException\SD Class InvalidOperationException\obj\Debug\netcoreapp3.1\SD Class InvalidOperationException.genruntimeconfig.cache

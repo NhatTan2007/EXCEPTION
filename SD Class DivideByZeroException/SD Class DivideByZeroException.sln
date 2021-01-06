@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD Class DivideByZeroException", "SD Class DivideByZeroException\SD Class DivideByZeroException.csproj", "{1163A949-93F3-474D-8D5A-986578AF745D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1163A949-93F3-474D-8D5A-986578AF745D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1163A949-93F3-474D-8D5A-986578AF745D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1163A949-93F3-474D-8D5A-986578AF745D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1163A949-93F3-474D-8D5A-986578AF745D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0170C701-7742-4F98-B004-21D2C9E9B433}
+	EndGlobalSection
+EndGlobal

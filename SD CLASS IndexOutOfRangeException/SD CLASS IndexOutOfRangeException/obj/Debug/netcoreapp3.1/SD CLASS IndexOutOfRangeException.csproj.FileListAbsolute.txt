@@ -1,0 +1,13 @@
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\bin\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.exe
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\bin\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.deps.json
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\bin\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.runtimeconfig.json
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\bin\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.runtimeconfig.dev.json
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\bin\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.dll
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\bin\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.pdb
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.csprojAssemblyReference.cache
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.dll
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.pdb
+C:\Users\nhatt\source\repos\SD CLASS IndexOutOfRangeException\SD CLASS IndexOutOfRangeException\obj\Debug\netcoreapp3.1\SD CLASS IndexOutOfRangeException.genruntimeconfig.cache

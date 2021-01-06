@@ -1,0 +1,12 @@
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\bin\Debug\netcoreapp3.1\SD Class FormatException.exe
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\bin\Debug\netcoreapp3.1\SD Class FormatException.deps.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\bin\Debug\netcoreapp3.1\SD Class FormatException.runtimeconfig.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\bin\Debug\netcoreapp3.1\SD Class FormatException.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\bin\Debug\netcoreapp3.1\SD Class FormatException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\bin\Debug\netcoreapp3.1\SD Class FormatException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\obj\Debug\netcoreapp3.1\SD Class FormatException.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\obj\Debug\netcoreapp3.1\SD Class FormatException.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\obj\Debug\netcoreapp3.1\SD Class FormatException.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\obj\Debug\netcoreapp3.1\SD Class FormatException.dll
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\obj\Debug\netcoreapp3.1\SD Class FormatException.pdb
+D:\LEARNING\MODULE 2\13. EXCEPTION HANDLE\EXERCISE\SD Class FormatException\SD Class FormatException\obj\Debug\netcoreapp3.1\SD Class FormatException.genruntimeconfig.cache
